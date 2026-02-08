@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Muhammed Junaid 👋
 
-<!--
-**junaid-aiops/junaid-aiops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Automation & Applied AI Engineer with 1.5+ years of industry experience.
+I build AI-powered workflows, automate business processes, and create
+AI-assisted applications.
 
-Here are some ideas to get you started:
+🔧 Skills:
+- AI Automation (n8n, APIs)
+- Python for automation
+- LLM-based workflows
+- Data handling & analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Experience:
+- AI & ML Engineer @ NicorAI Systems
+- AI & ML Associate @ 27 Technologies
+
+🎯 Current Focus:
+- AI automation for businesses
+- Workflow optimization
+- Freelancing & remote opportunities
+
+📫 Contact:
+LinkedIn: (link later)
