@@ -90,6 +90,6 @@ Open to Bengaluru, onsite, hybrid, and remote opportunities.
 ## 📫 Contact
 
 - Portfolio: [portfolio-junaid17.vercel.app](https://portfolio-junaid17.vercel.app)
-- LinkedIn: [linkedin.com/in/muhammed-junaid-98156634b](https://www.linkedin.com/in/muhammed-junaid-98156634b)
+- LinkedIn: [www.linkedin.com/in/junaid14](https://www.linkedin.com/in/junaid14)
 - Email: [muhammedjunaid2025@gmail.com](mailto:muhammedjunaid2025@gmail.com)
 ```
